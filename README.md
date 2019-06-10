@@ -19,7 +19,7 @@ mnist(60x60x1)和[SVHN](http://ufldl.stanford.edu/housenumbers/)
 ![format1](img/4.png)
 
 
-###实验的意外
+### 实验的意外
 在训练过程中意外发现，如果对数据集SVHN 进行训练，不加STN模块的网络训练结果会比加STN模块的网络的训练结果要好。
 
 - 不带STN的CNN关于数据集svhn的训练结果
